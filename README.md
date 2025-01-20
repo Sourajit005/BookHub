@@ -1,4 +1,5 @@
-#📚 BookHub
+📚 #BookHub
+
 BookHub is a responsive web application that allows users to search for books and explore their details using the Open Library API. The application is designed with an intuitive and modern interface powered by React.js, making it easy and seamless to navigate.
 
 🚀 Features
